@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello, I'm Sigis5 👋
 
-<!--
-**Sigis5/Sigis5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A Judo enthusiast, who loves learning new things.
 
-Here are some ideas to get you started:
+### Languages i'm learning at the moment:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+### 
+
+### Current focus:
+
+- [Python Games](https://github.com/Sigis5/Python-Games-) this is a project where I practice Python by creating simple games.
+
+### Side Projects:
+- [Judo Perfomance Tracker](https://github.com/Sigis5/Judo-Performance-Tracker) A Python script which utilises a popular Math library by the name Pandas. Finishing touches are being added soon 👀
+
+###
+
+<h3 align="left">   My Github Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Sigis5&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
